@@ -52,7 +52,7 @@ public class Blobs {
 
   static String[] CONTACT_POINTS = {"dc0vm0","dc0vm1","dc0vm2"};
   static String USERNAME = "cassandra";
-  static String PASSWORD = "usb2960!!Jph";
+  static String PASSWORD = "HiddenPassword";
   static int PORT = 9042;
 
   public static void main(String[] args) throws IOException {
